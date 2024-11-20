@@ -28,7 +28,7 @@ Este projeto está licenciado sob a licença MIT.
 <ul>
   <li>👉 Miguel Aguiar Fernandes | Rm: 559589</li>
   <li>👉 Guilherme Leite | Rm: 560131</li>
-  <li>👉 Fernando | Rm: 559505</li>
+  <li>👉 Fernando Reis | Rm: 559505</li>
 </ul>
 
 Desenvolvido com foco na sustentabilidade e inovação. Junte-se a nós para promover um futuro mais verde! 🌍
